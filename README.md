@@ -1,4 +1,4 @@
-<h1> OLÁ! Eu sou Alan Brazões, 👋 </h1>
+<h1> Olá! Eu sou Alan Brazões 👋 </h1>
 
 <div align="start">
   <a href="https://github.com/alanbrazoes">
