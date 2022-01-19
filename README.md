@@ -2,7 +2,6 @@
 
 <div align="start">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanbrazoes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbrazoes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <h2> Stacks </h2>
 <div style="display: flex; justfy-content: center"><br>
