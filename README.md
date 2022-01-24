@@ -1,8 +1,8 @@
 <h1> Olá! Eu sou Alan Brazões 👋 </h1>
 
-<ol>
-  <li>Sou desenvolvledor FullStack;</l1>
-</ol>
+<ul>
+  <li>Desenvolvledor FullStack;</l1>
+</ul>
 
 <div align="start">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanbrazoes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
