@@ -1,7 +1,7 @@
 <h1> Olá! Eu sou Alan Brazões 👋 </h1>
 
 <ul>
-  <li>Desenvolvledor FullStack;</l1>
+  <li>Desenvolvedor FullStack;</l1>
 </ul>
 
 <div align="start">
