@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, me chamo Alan Brazões</h1>
-<h3 align="center">Um desenvolvedor FullStack</h3>
+<h3 align="center">Desenvolvedor FullStack</h3>
 
 - 💬 Pergunte-me sobre **JavaScript, React e NodeJS**
 
