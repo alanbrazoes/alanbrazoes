@@ -2,7 +2,7 @@
 <h3>Desenvolvedor FullStack</h3>
 
 - 💬 Pergunte-me sobre **JavaScript, React e NodeJS**
-- 📫 Como entrar em contato comigo **alanbrazoes@gmail.com**
+- 📫 Como entrar em contato comigo alanbrazoes@gmail.com
 - Estudante de Desenvolvimento Web Fullstack na Trybe.
 
 <p align="left">
