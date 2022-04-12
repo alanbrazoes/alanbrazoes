@@ -1,5 +1,5 @@
-<h1 align="center">Oi 👋, me chamo Alan Brazões</h1>
-<h3 align="center">Desenvolvedor FullStack</h3>
+<h1>Oi 👋, me chamo Alan Brazões</h1>
+<h3>Desenvolvedor FullStack</h3>
 
 - 💬 Pergunte-me sobre **JavaScript, React e NodeJS**
 - 📫 Como entrar em contato comigo **alanbrazoes@gmail.com**
@@ -29,17 +29,11 @@
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
   </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40"                 height="40"/> 
   </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a> 
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanbrazoes&show_icons=true&locale=en" alt="alanbrazoes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanbrazoes&show_icons=true&locale=en" alt="alanbrazoes" /></p>
 
 
