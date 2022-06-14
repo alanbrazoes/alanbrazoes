@@ -6,7 +6,7 @@
 - Estudante de Desenvolvimento Web Fullstack na Trybe.
 
 <p align="left">
-<a href="https://www.linkedin.com/in/alan-braz%C3%B5es-787b22178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alan-braz%c3%b5es-787b22178/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alan-braz%C3%B5es-787b22178/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alan-braz%c3%b5es-787b22178/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
