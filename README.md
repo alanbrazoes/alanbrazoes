@@ -3,7 +3,7 @@
 
 - 💬 Pergunte-me sobre **JavaScript, React e NodeJS**
 - 📫 Como entrar em contato comigo alanbrazoes@gmail.com
-- Estudante de Desenvolvimento Web Fullstack na Trybe.
+- Estudante de Desenvolvimento Web Fullstack pela [Trybe](https://www.betrybe.com/).
 
 <p align="left">
 <a href="https://www.linkedin.com/in/alan-braz%C3%B5es-787b22178/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alan-braz%c3%b5es-787b22178/" height="30" width="40" /></a>
